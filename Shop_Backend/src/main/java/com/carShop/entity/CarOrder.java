@@ -1,4 +1,4 @@
-package com.avvilenn.carShop.entity;
+package com.carShop.entity;
 
 
 import java.util.ArrayList;

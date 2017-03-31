@@ -1,4 +1,4 @@
-package com.avvilenn.carShop.entity;
+package com.carShop.entity;
 
 
 public class CarOrderItem {
