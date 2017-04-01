@@ -12,9 +12,6 @@
     <packaging>war</packaging>
 
     <artifactId>Shop_Frontend</artifactId>
-
-
-
     <dependencies>
 
         <dependency>
